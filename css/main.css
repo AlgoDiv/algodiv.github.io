@@ -40,7 +40,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 100%;
+    gap: 2vw;
     width: 40vw;
+    max-width: 530px;
 }
 
 .SubtitleBox {
