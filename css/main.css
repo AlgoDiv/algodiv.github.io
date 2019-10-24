@@ -43,6 +43,7 @@ body {
     gap: 2vw;
     width: 40vw;
     max-width: 530px;
+    min-width: 265px;
 }
 
 .SubtitleBox {
